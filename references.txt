@@ -1,0 +1,198 @@
+[1].  Agrawal, R. & Srikant, R. 1994. Fast algorithm for mining 
+
+association rules. VLDB’94, 1994. 
+
+[2].  Boguraev,  B.,  and  Kennedy,  C.  1997.  Salience-Based 
+Content  Characterization  of  Text  Documents.  In  Proc.  of 
+the ACL'97/EACL'97 Workshop on Intelligent Scalable Text 
+Summarization. 
+
+[3].  Bourigault,  D.  1995.  Lexter:  A  terminology  extraction 
+
+software for knowledge acquisition from texts. KAW’95. 
+
+[4].  Bruce, R., and Wiebe, J. 2000. Recognizing Subjectivity: A 
+Case  Study  of  Manual  Tagging.  Natural  Language 
+Engineering. 
+
+[5].  Cardie,  C.,  Wiebe,  J.,  Wilson,  T.  and  Litman,  D.  2003. 
+Combining  Low-Level  and  Summary  Representations  of 
+Opinions  for  Multi-Perspective Question Answering. 2003 
+AAAI  Spring  Symposium  on  New  Directions  in  Question 
+Answering. 
+
+[6].  Church,  K.W.  and  Hanks,  P.  1990.  Word  Association 
+Lexicography. 
+
+Norms,  Mutual 
+
+Information 
+
+and 
+
+Computational Linguistics, 16(1):22-29.  
+
+[7].  Daille,  B.  1996.  Study  and  Implementation  of  Combined 
+Techniques for Automatic Extraction of Terminology. The 
+Balancing  Act:  Combining  Symbolic  and  Statistical 
+Approaches to Language. MIT Press, Cambridge 
+
+[8].  Das,  S.  and  Chen,  M.,  2001.  Yahoo!  for  Amazon: 
+Extracting  market  sentiment  from  stock  message  boards. 
+APFA’01. 
+
+[9].  Dave, K., Lawrence, S., and Pennock, D., 2003. Mining the 
+Peanut  Gallery:  Opinion  Extraction  and  Semantic 
+Classification of Product Reviews. WWW’03. 
+
+[10].  DeJong,  G.  1982.  An  Overview  of  the  FRUMP  System. 
+
+Strategies for Natural Language Parsing. 149-176.  
+
+[11].  FASTR. http://www.limsi.fr/Individu/jacquemi/FASTR/ 
+[12].  Fellbaum,  C.  1998.  WordNet:  an  Electronic  Lexical 
+
+Database, MIT Press. 
+
+[13].  Finn,  A.  and  Kushmerick,  N.  2003.  Learning  to  Classify 
+Documents  according  to  Genre.  IJCAI-03  Workshop  on 
+Computational Approaches to Style Analysis and Synthesis. 
+[14].  Finn,  A.,  Kushmerick,  N.,  and  Smyth,  B.  2002.  Genre 
+Classification  and  Domain  Transfer 
+Information 
+Filtering. In Proc. of European Colloquium on Information 
+Retrieval Research, pages 353-362. 
+
+for 
+
+[15].  Goldstein, J., Kantrowitz, M., Mittal, V., and Carbonell, J. 
+1999.  Summarizing  Text  Documents:  Sentence  Selection 
+and Evaluation Metrics. SIGIR'99.  
+
+[16].  Hatzivassiloglou,  V.  and  Mckeown,  K.,  1997.  Predicting 
+the  Semantic  Orientation  of  Adjectives.  In  Proc.  of  35th 
+ACL/8th EACL. 
+
+[17].  Hatzivassiloglou,  V.  and  Wiebe,  2000.  J.  Effects  of 
+Adjective  Orientation  and  Gradability  on  Sentence 
+Subjectivity. COLING’00. 
+
+[18].  Hearst, M, 1992. Direction-based Text Interpretation as an 
+Information  Access  Refinement.  In  Paul  Jacobs,  editor, 
+Text-Based 
+Intelligent  Systems.  Lawrence  Erlbaum 
+Associates. 
+
+[19].  Hu,  M.,  and  Liu,  B.  2004.  Mining  Opinion  Features  in 
+
+Customer Reviews. To appear in AAAI’04, 2004.  
+
+[20].  Huettner,  A.  and  Subasic,  P.,  2000.  Fuzzy  Typing  for 
+Document  Management.  In  ACL’00  Companion  Volume: 
+Tutorial Abstracts and Demonstration Notes. 
+
+[21].  Jacquemin,  C.,  and  Bourigault,  D.  2001.  Term  extraction 
+and automatic indexing. In R. Mitkov, editor, Handbook of 
+Computational Linguistics. Oxford University Press. 
+
+[22].  Justeson,  J.  S.,  and  Katz,  S.M.  1995.  Technical 
+Terminology:  some  linguistic  properties  and  an  algorithm 
+for  identification  in  text.  Natural  Language  Engineering 
+1(1):9-27. 
+
+[23].  Karlgren, J. and Cutting, D. 1994. Recognizing Text Genres 
+with  Simple  Metrics  using  Discriminant  Analysis. 
+COLING’94.  
+
+[24].  Kessler, B., Nunberg, G., and Schutze, H. 1997. Automatic 
+
+Detection of Text Genre. In Proc. of 35th ACL/8th EACL. 
+
+[25].  Kupiec,  J.,  Pedersen,  J.,  and  Chen,  F.  1995.  A  Trainable 
+
+Document Summarizer. SIGIR’1995 
+
+[26].  Liu,  B.,  Hsu,  W.,  Ma,  Y.  1998.  Integrating  Classification 
+
+and Association Rule Mining. KDD’98, 1998.  
+
+[27].  Mani, 
+
+I.,  and  Bloedorn,  E.,  1997.  Multi-document 
+
+Summarization by Graph Search and Matching. AAAI’97. 
+
+[28].  Manning,  C.  and  Schütze,  H.  1999.  Foundations  of 
+Statistical  Natural  Language  Processing,  MIT  Press. 
+Cambridge, MA: May 1999.  
+
+[29].  Miller,  G.,  Beckwith,  R,  Fellbaum,  C.,  Gross,  D.,  and 
+Miller,  K.  1990.  Introduction  to  WordNet:  An  on-line 
+lexical  database.  International  Journal  of  Lexicography 
+(special issue), 3(4):235-312. 
+
+[30].  Morinaga,  S.,  Ya  Yamanishi,  K.,  Tateishi,  K,  and 
+Fukushima,  T.  2002.  Mining  Product  Reputations  on  the 
+Web. KDD’02. 
+
+[31].  NLProcessor – Text Analysis Toolkit. 2000. 
+http://www.infogistics.com/textanalysis.html 
+
+[32].  Paice,  C.  D.  1990.  Constructing  Literature  Abstracts  by 
+Information 
+
+Computer:  Techniques 
+Processing and Management 26:171-186. 
+
+and  Prospects. 
+
+[33].  Pang,  B.,  Lee,  L.,  and  Vaithyanathan,  S.,  2002.  Thumbs 
+up?  Sentiment  Classification  Using  Machine  Learning 
+Techniques. In Proc. of EMNLP 2002 
+
+[34].  Reimer,  U.  and  Hahn,  U.  1997.  A  Formal  Model  of  Text 
+Summarization  based  on  Condensation  Operators  of  a 
+Terminological Logic. In Proceedings of ACL’97 Workshop 
+on Intelligent, Scalable Text Summarization. 
+
+[35].  Sack,  W.,  1994.  On  the  Computation  of  Point  of  View. 
+
+AAAI’94, Student abstract. 
+
+[36].  Salton,  G.  Singhal,  A.  Buckley,  C.  and  Mitra,  M.  1996. 
+Automatic  Text  Decomposition  using  Text  Segments  and 
+Text Themes. ACM Conference on Hypertext. 
+
+[37].  Sparck  J.  1993a.  Discourse  Modeling  for  Automatic  Text 
+Summarizing.  Technical  Report  290,  University  of 
+Cambridge Computer Laboratory. 
+
+[38].  Sparck J. 1993b. What might be in a summary? Information 
+
+Retrieval 93: 9-26. 
+
+[39].  Tait,  J.  1983.  Automatic  Summarizing  of  English  Texts. 
+
+Ph.D. Dissertation, University of Cambridge. 
+
+[40].  Tetreault,  J.  1999.  Analysis  of  Syntax-Based  Pronoun 
+
+Resolution Methods. ACL’99. 
+
+[41].  Tong, R., 2001. An Operational System for Detecting and 
+Tracking  Opinions  in  on-line  discussion.  SIGIR  2001 
+Workshop on Operational Text Classification. 
+
+[42].  Turney, P. 2002. Thumbs Up or Thumbs Down? Semantic 
+Orientation  Applied  to  Unsupervised  Classification  of 
+Reviews. ACL’02. 
+
+[43].  Wiebe,  J.  2000.  Learning  Subjective  Adjectives  from 
+
+Corpora. AAAI’00. 
+
+[44].  Wiebe,  J.,  Bruce,  R.,  and  O’Hara,  T.  1999.  Development 
+and  Use  of  a  Gold  Standard  Data  Set  for  Subjectivity 
+Classifications. In Proc. of ACL’99. 
+
+
