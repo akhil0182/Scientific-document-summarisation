@@ -3,4 +3,6 @@
 1)Implement multithreading and execute all python modules in a loop.
 2)Make web crawler faster.
 3)Web crawler should stop seraching for further result when exact match is found.If exact match is not found then the resulting pdfs should be tagged/named separately.
+4)Crawler should download to folder, sequentially named.eg:folder1,folder2....
+
 
