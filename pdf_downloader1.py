@@ -11,7 +11,7 @@ for line in fhand3:
 i=1  
 
 for query in query:
-    for j in search(query, tld="com", num=10, stop=1, pause=2): 
+    for j in search(query, tld="com", num=10, stop=1, pause=25): 
         if j.endswith('pdf'):    
             if j.startswith('ftp://'):
                 with closing(urllib.urlopen(j)) as r:
