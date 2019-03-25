@@ -8,11 +8,12 @@ fhand3=open("references.txt","r")
 for line in fhand3:
     query.append(line)
 
-i=1  
+i=0  
 
 for query in query:
     for j in search(query, tld="com", num=10, stop=1, pause=25): 
         if j.endswith('pdf'):    
+            i+=1
             if j.startswith('ftp://'):
                 with closing(urllib.urlopen(j)) as r:
                     with open("python" + str(i) +".pdf", 'wb') as f:
@@ -25,5 +26,9 @@ for query in query:
   
                                   if chunk: 
                                        pdf.write(chunk) 
-                                       i+=1
+                                       
             print(j) 
+
+            
+            
+            
